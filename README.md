@@ -89,7 +89,7 @@ Interface Screenshots -
 
 
 
-![Screenshot 2024-09-07 153121](https://github.com/user-attachments/assets/f29ac176-5c36-4371-8255-2ffc7d4deb31)
+
 
 ![Screenshot 2024-09-07 153138](https://github.com/user-attachments/assets/adbbecf9-f1a5-4f0c-b8d2-db5575342551)
 
