@@ -85,5 +85,20 @@ For detailed instructions, refer to the *Installation Guide* in the repository.
 
 
 Interface Screenshots - 
+
+
+
+
 ![Screenshot 2024-09-07 153121](https://github.com/user-attachments/assets/f29ac176-5c36-4371-8255-2ffc7d4deb31)
+
+![Screenshot 2024-09-07 153138](https://github.com/user-attachments/assets/adbbecf9-f1a5-4f0c-b8d2-db5575342551)
+
+![Screenshot 2024-09-07 153158](https://github.com/user-attachments/assets/ae6b456b-4328-4f3d-8cb5-2067f1642a76)
+
+![Screenshot 2024-09-07 153224](https://github.com/user-attachments/assets/c01a3932-f4b9-47dc-b0df-db027037b148)
+
+![Screenshot 2024-09-07 153238](https://github.com/user-attachments/assets/d04d8e64-fc03-4391-826c-d0919454abe5)
+
+
+
 
